@@ -1,0 +1,15 @@
+C:\Users\Студент\Desktop\emplobook\emplobook\obj\Debug\net6.0\emplobook.csproj.AssemblyReference.cache
+C:\Users\Студент\Desktop\emplobook\emplobook\obj\Debug\net6.0\emplobook.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Студент\Desktop\emplobook\emplobook\obj\Debug\net6.0\emplobook.AssemblyInfoInputs.cache
+C:\Users\Студент\Desktop\emplobook\emplobook\obj\Debug\net6.0\emplobook.AssemblyInfo.cs
+C:\Users\Студент\Desktop\emplobook\emplobook\obj\Debug\net6.0\emplobook.csproj.CoreCompileInputs.cache
+C:\Users\Студент\Desktop\emplobook\emplobook\bin\Debug\net6.0\emplobook.exe
+C:\Users\Студент\Desktop\emplobook\emplobook\bin\Debug\net6.0\emplobook.deps.json
+C:\Users\Студент\Desktop\emplobook\emplobook\bin\Debug\net6.0\emplobook.runtimeconfig.json
+C:\Users\Студент\Desktop\emplobook\emplobook\bin\Debug\net6.0\emplobook.dll
+C:\Users\Студент\Desktop\emplobook\emplobook\bin\Debug\net6.0\emplobook.pdb
+C:\Users\Студент\Desktop\emplobook\emplobook\obj\Debug\net6.0\emplobook.dll
+C:\Users\Студент\Desktop\emplobook\emplobook\obj\Debug\net6.0\refint\emplobook.dll
+C:\Users\Студент\Desktop\emplobook\emplobook\obj\Debug\net6.0\emplobook.pdb
+C:\Users\Студент\Desktop\emplobook\emplobook\obj\Debug\net6.0\emplobook.genruntimeconfig.cache
+C:\Users\Студент\Desktop\emplobook\emplobook\obj\Debug\net6.0\ref\emplobook.dll
